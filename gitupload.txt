@@ -4,3 +4,4 @@
  git commit -m "first commit"
  git remote addremote add origin https://github.com/xtuwf/mytool.git
  git push -u origin master
+ done
