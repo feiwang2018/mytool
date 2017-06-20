@@ -1,6 +1,6 @@
-1 cd dir
-2 git init 
-3 git add file needed to upload
-4 git commit -m "first commit"
-5 git remote addremote add origin https://github.com/xtuwf/mytool.git
-5 git push -u origin master
+ cd dir
+ git init 
+ git add file needed to upload
+ git commit -m "first commit"
+ git remote addremote add origin https://github.com/xtuwf/mytool.git
+ git push -u origin master
